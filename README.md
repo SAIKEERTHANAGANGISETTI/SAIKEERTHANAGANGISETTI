@@ -38,25 +38,6 @@
 
 ---
 
-### 📌 Projects  
-🚗 **Semantic Segmentation in Autonomous Vehicles**  
-- Implemented a real-time **semantic segmentation model** using **DeepLabV3+ and ResNet-50** to classify road elements.  
-- Trained on the **CamVid dataset**, achieving **IoU: 0.87** and **Dice: 0.89**.  
-- Deployed the model using **ONNX Runtime and Jetson Nano** for real-time inference.  
-
-💻 More projects coming soon! Stay tuned...  
-
----
-
-### 📜 Certifications  
-- ✅ **Problem Solving Through Programming in C** (NPTEL)  
-- ✅ **CLA - Programming Essentials in C**  
-- ✅ **Cybersecurity Essentials**  
-- ✅ **Cloud Computing** (NPTEL)  
-- ✅ **CCNAv7: Introduction to Networks**  
-- ✅ **Programming in Java** (NPTEL)  
-
----
 
 ### 📫 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saikeerthana-gangisetti-1b0969259/)  
